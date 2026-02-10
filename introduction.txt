@@ -1,0 +1,5 @@
+Hi, my name is Ian Sabia.
+I am a student at Boston University.
+My favorite class so far at BU has been DS121, as I liked learning about linear algebra.
+I am also taking DS340 (Intro to AI/ML) and of course DS219!
+A fun fact about me: I enjoy working on data science projects in my free time.
